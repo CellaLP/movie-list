@@ -12,14 +12,6 @@ class Navbar extends Component {
         <div className="container">
           <Link className="navbar-brand" to="/">Movie List</Link>
           <div className="collapse navbar-collapse" id="navbarCollapse">
-            <ul className="navbar-nav ml-auto">
-              <li className="nav-item active">
-                <Link className="nav-link" to="/">Home <span className="sr-only">(current)</span></Link>
-              </li>
-              <li className="nav-item">
-                <Link className="nav-link" to="/about">About</Link>
-              </li>
-            </ul>
           </div>
         </div>
       </nav>
