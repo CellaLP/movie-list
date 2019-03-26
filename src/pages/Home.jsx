@@ -17,14 +17,14 @@ class Home extends Component {
                                             <div className="form-check">
                                                 <input className="form-check-input" type="checkbox" value="" id="defaultCheck1" />
                                                 <label className="form-check-label" for="defaultCheck1">
-                                                    Star Wars Episode IV – A New Hope
+                                                    Star Wars Episode IV &ndash; A New Hope
                                             </label>
                                             </div>
                                             
                                             <div className="form-check">
                                                 <input className="form-check-input" type="checkbox" value="" id="defaultCheck1" />
                                                 <label className="form-check-label" for="defaultCheck1">
-                                                    Star Wars Episode V – The Empire Strikes Back
+                                                    Star Wars Episode V &ndash; The Empire Strikes Back
                                             </label>
                                             </div>
                                             
@@ -32,35 +32,35 @@ class Home extends Component {
                                             <div className="form-check">
                                                 <input className="form-check-input" type="checkbox" value="" id="defaultCheck1" />
                                                 <label className="form-check-label" for="defaultCheck1">
-                                                    Star Wars Episode VI – Return of the Jedi
+                                                    Star Wars Episode VI &ndash; Return of the Jedi
                                             </label>
                                             </div>
                                             
                                             <div className="form-check">
                                                 <input className="form-check-input" type="checkbox" value="" id="defaultCheck1" />
                                                 <label className="form-check-label" for="defaultCheck1">
-                                                    Star Wars Episode I – The Phantom Menace
+                                                    Star Wars Episode I &ndash; The Phantom Menace
                                             </label>
                                             </div>
                                             
                                             <div className="form-check">
                                                 <input className="form-check-input" type="checkbox" value="" id="defaultCheck1" />
                                                 <label className="form-check-label" for="defaultCheck1">
-                                                    Star Wars Episode II – Attack of the Clones
+                                                    Star Wars Episode II &ndash; Attack of the Clones
                                             </label>
                                             </div>
                                             
                                             <div className="form-check">
                                                 <input className="form-check-input" type="checkbox" value="" id="defaultCheck1" />
                                                 <label className="form-check-label" for="defaultCheck1">
-                                                    Star Wars Episode III – Revenge of the Sith
+                                                    Star Wars Episode III &ndash; Revenge of the Sith
                                             </label>
                                             </div>
                                             
                                             <div className="form-check">
                                                 <input className="form-check-input" type="checkbox" value="" id="defaultCheck1" />
                                                 <label className="form-check-label" for="defaultCheck1">
-                                                    Star Wars Episode VII – The Force Awakens
+                                                    Star Wars Episode VII &ndash; The Force Awakens
                                             </label>
                                             </div>
                                             
