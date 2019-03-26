@@ -1,0 +1,33 @@
+
+body {
+    color: aliceblue;
+}
+
+.display-3 {
+    color: darkgrey;
+  }
+
+
+.container {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.checkboxes {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+input[type=checkbox] + label {
+    color: #ccc;
+    font-style: normal;
+  } 
+  input[type=checkbox]:checked + label {
+    color: gray;
+    font-style: normal;
+  } 
